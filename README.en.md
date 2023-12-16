@@ -2,7 +2,7 @@
   <p>This README is available in the following languages:</p>
   <br/>
   
-  <a href = "https://github.com/vitor0p9f/vitor0p9f/README.md" target="_blank">
+  <a href = "https://github.com/vitor0p9f/vitor0p9f/blob/main/README.md" target="_blank">
     <img src="https://img.shields.io/badge/Language-Portuguese-green"/>
   </a>
 </div>
