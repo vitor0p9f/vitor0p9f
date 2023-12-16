@@ -17,12 +17,13 @@
 
 :computer: Apaixonado por desenvolvimento e tecnologia.
 
-## :wrench: Linguagens e ferramentas que utilizo atualmente
+## :wrench: Linguagens de programação e ferramentas que utilizo atualmente
 <br>
 
 ![image](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 ![image](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
 ![image](https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ## :calling: Entre em contato comigo
 <br>
