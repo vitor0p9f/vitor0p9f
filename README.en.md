@@ -35,4 +35,4 @@
 
 ## :star: Featured projects
 
-* Working on it.
+- [Dockerized Dev Environment](https://github.com/vitor0p9f/dockerized-dev-environment)
